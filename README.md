@@ -1,4 +1,6 @@
 # InternBridge_Pvt_Ltd_UIUX_Banking-app-
+Project link:
+https://www.figma.com/design/tYoUKTxjyWkc1YJbP6K8ZN/banking-app2.0?node-id=0-1&t=nKBGcxzAlw6Jn5rX-1
 
 
 # Banking App Project
