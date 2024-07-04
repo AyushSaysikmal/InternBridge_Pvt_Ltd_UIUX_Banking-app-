@@ -34,8 +34,8 @@ The design prototype was created using Figma, focusing on a clean and modern aes
 Here are some snapshots of the app design:
 
 - *Login Screen*:
-  ![Login Screen](![image](https://github.com/AyushSaysikmal/InternBridge_Pvt_Ltd_UIUX_Banking-app-/assets/166900936/7d70b238-663b-47c8-8cca-9663100d8738)
-)
+  https://github.com/AyushSaysikmal/InternBridge_Pvt_Ltd_UIUX_Banking-app-/assets/166900936/7d70b238-663b-47c8-8cca-9663100d8738
+
   
 
 ## License
